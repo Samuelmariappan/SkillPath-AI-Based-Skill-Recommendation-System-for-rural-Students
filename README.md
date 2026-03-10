@@ -145,10 +145,10 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Danish Nicho**
+**Samuel M**
 
 GitHub:
-https://github.com/danishnicho7
+https://github.com/Samuelmariappan
 
 ---
 
