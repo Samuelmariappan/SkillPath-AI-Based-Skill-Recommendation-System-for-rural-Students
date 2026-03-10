@@ -82,7 +82,7 @@ SkillPath-AI-Based-Skill-Recommendation-System
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/danishnicho7/SkillPath-AI-Based-Skill-Recommendation-System-for-rural-Students.git
+git clone https://github.com/Samuelmariappan/SkillPath-AI-Based-Skill-Recommendation-System-for-rural-Students.git
 ```
 
 ### 2️⃣ Navigate to the project folder
